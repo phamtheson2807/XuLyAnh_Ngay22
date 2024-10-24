@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Đọc ảnh
-input_image_path = 'phongcanh.png'  # Thay đổi đường dẫn tới ảnh của bạn
+input_image_path = 'phongcanh.png'  # Thay đổi đường dẫn tới ảnh
 image = cv2.imread(input_image_path)
 
 # Kiểm tra xem ảnh có được đọc thành công không
